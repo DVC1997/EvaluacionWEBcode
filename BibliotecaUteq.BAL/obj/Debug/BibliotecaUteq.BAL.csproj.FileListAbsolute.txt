@@ -1,0 +1,30 @@
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.BAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.BAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.DAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\RestSharp.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.DAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\RestSharp.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.csproj.CopyComplete
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.Shared.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.Shared.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.BAL.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.BAL.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.DAL.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\RestSharp.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.Shared.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.DAL.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\RestSharp.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\BibliotecaUteq.Shared.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.csproj.AssemblyReference.cache
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.csproj.CopyComplete
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.BAL\obj\Debug\BibliotecaUteq.BAL.pdb

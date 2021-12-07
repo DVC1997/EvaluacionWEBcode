@@ -1,0 +1,153 @@
+﻿@model BibliotecaUteq.DAL.LibrosDto
+
+@{
+    ViewBag.Title = "CreateLibro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create Libro</h2>
+
+
+<div class="admin-form theme-danger tab-pane" id="register1" role="tabpanel">
+    <div class="panel panel-info heading-border">
+        <div class="panel-heading">
+            <span class="panel-title">
+                <i class="fa fa-pencil-square"></i>Nuevo Libro
+            </span>
+        </div>
+        <!-- end .form-header section -->
+
+        <form method="post" id="form-register" action="@Url.Action("AddLibro","Libros")">
+            <div class="panel-body p25">
+                <div class="section row">
+                    <div class="col-md-6">
+                        <label>Título</label>
+                        <label for="Titulo" class="field prepend-icon">
+                            @Html.TextBoxFor(m => m.Titulo, new { @class = "gui-input", @id = "titulo", @name = "titulo", maxlength = "250", @placeholder = "Título" })
+                        </label>
+                    </div>
+                    <div class="col-md-6">
+                        <label>Autor</label>
+                        <label for="Autor" class="field prepend-icon">
+                            @Html.TextBoxFor(m => m.Autor, new { @class = "gui-input", @id = "autor", @name = "autor", maxlength = "250", @placeholder = "Autor" })
+                        </label>
+                    </div>
+                    <div class="col-md-6">
+                        <label>Editorial</label>
+                        <label for="Editorial" class="field prepend-icon">
+                            @Html.TextBoxFor(m => m.Editorial, new { @class = "gui-input", @id = "editorial", @name = "editorial", maxlength = "250", @placeholder = "Editorial" })
+                        </label>
+                    </div>
+                    <div class="col-md-6">
+                        <label>Páginas</label>
+                        <label for="Editorial" class="field prepend-icon">
+                            @Html.TextBoxFor(m => m.Paginas, new { @class = "gui-input", @id = "paginas", @name = "paginas", maxlength = "250", @placeholder = "Páginas", @onkeypress = "return soloNumeros(event);" })
+                        </label>
+                    </div>
+                    <div class="col-md-6">
+                        <label>Año Edición</label>
+                        <label for="anioEdicion" class="field prepend-icon">
+                            @Html.TextBoxFor(m => m.anioEdicion, new { @class = "gui-input", @id = "anioEdicion", @name = "anioEdicion", @type = "date" })
+                        </label>
+                    </div>
+                    <div class="col-md-6">
+                        <label>Activo</label>
+                        <label for="activo" class="field prepend-icon">
+                            @Html.CheckBoxFor(m => m.Activo, new { @class = "gui-input", @id = "activo", @name = "activo", maxlength = "1" })
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- end .form-body section -->
+            <div class="panel-footer text-right">
+                <a class="button btn-primary" href="@Url.Action("Libros")">Regresar</a>
+                <button type="submit" class="button btn-primary">Guardar</button>
+            </div>
+            <!-- end .form-footer section -->
+        </form>
+    </div>
+    <!-- end .admin-form section -->
+</div>
+<!-- end: .admin-form -->
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+<script language="javascript" type="text/javascript">
+
+    function soloNumeros(evt) {
+        var charCode = (evt.which) ? evt.which : event.keyCode
+        if (charCode > 31 && (charCode < 48 || charCode > 57))
+            return false;
+        return true;
+    }
+
+    $(document).ready(function () {
+
+        $("#form-register").validate({
+            errorClass: "state-error",
+            validClass: "state-success",
+            errorElement: "em",
+
+            rules: {
+                titulo: {
+                    required: true
+                },
+                autor: {
+                    required: true
+                },
+                editorial: {
+                    required: true
+                },
+                paginas: {
+                    required: true
+                },
+                anioEdicion: {
+                    required: true
+                },
+                activo: {
+                    required: true
+                },
+            },
+
+            messages: {
+                titulo: {
+                    required: 'ingrese @Html.DisplayNameFor(m=>m.Titulo)'
+                },
+                autor: {
+                    required: 'ingrese @Html.DisplayNameFor(m => m.Autor)'
+                },
+                editorial: {
+                    required: 'ingrese @Html.DisplayNameFor(m => m.Editorial)'
+                },
+                paginas: {
+                    required: 'Ingrese @Html.DisplayNameFor(m => m.Paginas)'
+                },
+                anioEdicion: {
+                    required: 'Ingrese @Html.DisplayNameFor(m => m.anioEdicion)'
+                },
+                activo: {
+                    required: 'Ingrese @Html.DisplayNameFor(m => m.Activo)'
+                }
+            },
+
+            highlight: function (element, errorClass, validClass) {
+                $(element).closest('.field').addClass(errorClass).removeClass(validClass);
+            },
+            unhighlight: function (element, errorClass, validClass) {
+                $(element).closest('.field').removeClass(errorClass).addClass(validClass);
+            },
+            errorPlacement: function (error, element) {
+                if (element.is(":radio") || element.is(":checkbox")) {
+                    element.closest('.option-group').after(error);
+                } else {
+                    error.insertAfter(element.parent());
+                }
+            }
+        });
+    });
+</script>

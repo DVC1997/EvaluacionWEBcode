@@ -1,0 +1,204 @@
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.dll.config
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csc.exe
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csc.exe.config
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csc.rsp
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csi.exe
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csi.exe.config
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csi.rsp
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.AppContext.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Console.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.IO.Compression.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Net.Http.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.ValueTuple.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\vbc.exe
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\vbc.exe.config
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\vbc.rsp
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\VBCSCompiler.exe
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Antlr3.Runtime.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.BAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.DAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Net.Http.Formatting.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Helpers.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Http.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Mvc.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Optimization.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Razor.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.Razor.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\WebGrease.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\RestSharp.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.BAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.DAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Net.Http.Formatting.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Http.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Helpers.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Mvc.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Optimization.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Razor.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.Razor.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Newtonsoft.Json.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Antlr3.Runtime.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\RestSharp.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\obj\Debug\BibliotecaUteq.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\obj\Debug\BibliotecaUteq.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\obj\Debug\BibliotecaUteq.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\obj\Debug\BibliotecaUteq.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Unity.Mvc4.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.Shared.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad 2\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.Shared.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.dll.config
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csc.exe
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csc.exe.config
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csc.rsp
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csi.exe
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csi.exe.config
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\csi.rsp
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.AppContext.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Console.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Net.Http.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\vbc.exe
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\vbc.exe.config
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\vbc.rsp
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Antlr3.Runtime.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.BAL.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.DAL.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Newtonsoft.Json.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Net.Http.Formatting.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Helpers.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Http.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Mvc.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Optimization.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Razor.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Unity.Mvc4.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\WebGrease.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\RestSharp.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.Shared.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.BAL.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.DAL.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Newtonsoft.Json.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Net.Http.Formatting.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Http.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Helpers.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Mvc.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Optimization.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.Razor.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Antlr3.Runtime.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\RestSharp.xml
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\bin\BibliotecaUteq.Shared.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\obj\Debug\BibliotecaUteq.csproj.AssemblyReference.cache
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\obj\Debug\BibliotecaUteq.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\obj\Debug\BibliotecaUteq.dll
+C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq\obj\Debug\BibliotecaUteq.pdb
