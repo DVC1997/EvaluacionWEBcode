@@ -23,3 +23,16 @@ C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUt
 C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.DAL\obj\Debug\BibliotecaUteq.DAL.csproj.CopyComplete
 C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.DAL\obj\Debug\BibliotecaUteq.DAL.dll
 C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.DAL\obj\Debug\BibliotecaUteq.DAL.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\bin\Debug\BibliotecaUteq.DAL.dll
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\bin\Debug\BibliotecaUteq.DAL.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\bin\Debug\BibliotecaUteq.Shared.dll
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\bin\Debug\RestSharp.dll
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\bin\Debug\BibliotecaUteq.Shared.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\bin\Debug\RestSharp.xml
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\obj\Debug\BibliotecaUteq.DAL.csproj.AssemblyReference.cache
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\obj\Debug\BibliotecaUteq.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\obj\Debug\BibliotecaUteq.DAL.csproj.CopyComplete
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\obj\Debug\BibliotecaUteq.DAL.dll
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.DAL\obj\Debug\BibliotecaUteq.DAL.pdb

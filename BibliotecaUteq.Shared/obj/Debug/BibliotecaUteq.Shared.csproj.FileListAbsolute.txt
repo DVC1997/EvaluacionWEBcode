@@ -10,3 +10,9 @@ C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUt
 C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.Shared\obj\Debug\BibliotecaUteq.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.Shared\obj\Debug\BibliotecaUteq.Shared.dll
 C:\Users\Diego Villanueva\Desktop\WEB\BibliotecaUteq\BibliotecaUteq\BibliotecaUteq.Shared\obj\Debug\BibliotecaUteq.Shared.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.Shared\bin\Debug\BibliotecaUteq.Shared.dll
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.Shared\bin\Debug\BibliotecaUteq.Shared.pdb
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.Shared\obj\Debug\BibliotecaUteq.Shared.csproj.AssemblyReference.cache
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.Shared\obj\Debug\BibliotecaUteq.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.Shared\obj\Debug\BibliotecaUteq.Shared.dll
+C:\Users\Diego Villanueva\Desktop\WEB\Repo_Eva\EvaluacionWEBcode\BibliotecaUteq.Shared\obj\Debug\BibliotecaUteq.Shared.pdb

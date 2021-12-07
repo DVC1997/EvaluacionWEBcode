@@ -61,9 +61,14 @@
 
             <!-- end .form-body section -->
             <div class="panel-footer text-right">
-                <a class="button btn-primary" href="@Url.Action("Libros")">Regresar</a>
+
                 <button type="submit" class="button btn-primary">Guardar</button>
             </div>
+
+            <div>
+                @Html.ActionLink("Regresar", "Libros")
+            </div>
+
             <!-- end .form-footer section -->
         </form>
     </div>
